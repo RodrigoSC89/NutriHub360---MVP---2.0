@@ -1,5 +1,0 @@
-streamlit>=1.25
-pandas
-numpy
-matplotlib
-Pillow
