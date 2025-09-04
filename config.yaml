@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    nutricionista:
+      email: "nutrihub360@example.com"
+      name: "Nutricionista Padrão"
+      password: "$2b$12$CnN3FQ4DC/VskFv6mi59Oe0lfs0FA9bXowWjkOy0kHNjK91mFTSCO"  # senha: 1234
+
+cookie:
+  expiry_days: 1
+  key: "nutrihub_cookie"
+  name: "nutrihub_login"
+
+preauthorized:
+  emails:
+    - "nutrihub360@example.com"
